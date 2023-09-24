@@ -15,3 +15,11 @@
 - [X] menu
 - [X] colorize menu
 - [ ] More Intractive
+
+
+# To Run
+
+- ### in Linux/Macos (Unix)
+  #### `python ./app.py`
+- ### in Windows
+  #### `py .\app.py`
